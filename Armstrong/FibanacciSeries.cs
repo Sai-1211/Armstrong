@@ -10,7 +10,6 @@ namespace Armstrong
     {
         public void Fibanacci()
         {
-            //Adding line
             int a = 0, b = 1, c, n = 20;
             Console.WriteLine("----------------");
             Console.WriteLine("Fibanacci Series");
